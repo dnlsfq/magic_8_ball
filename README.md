@@ -1,1 +1,1 @@
-# magic_8_ball
+Collection of Javascript Projects from Codecademy 
