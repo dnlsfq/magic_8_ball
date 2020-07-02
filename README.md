@@ -1,1 +1,1 @@
-Collection of Javascript Projects from Codecademy 
+Collection of Javascript Projects 
